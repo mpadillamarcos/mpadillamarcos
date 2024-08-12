@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Padilla
 - 👀 I’m interested in backend development, hiking and Japanese culture
-- 🌱 I’m currently learning Java, TDD, object-oriented programming and Japanese
+- 🌱 I’m currently learning D3, TDD, object-oriented programming and Japanese
 - 💞️ I’m looking to collaborate on backend projects 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maria-padilla-marcos/)
 - 😄 Pronouns: she/her
